@@ -6,3 +6,4 @@ env
 db.sqlite3
 *_cache__
 .vscode
+local_settings.py
